@@ -1,0 +1,3 @@
+This is my third Git test file
+
+Git is cool
