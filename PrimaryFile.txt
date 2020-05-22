@@ -1,4 +1,4 @@
-Chaanged to TimmyBranch-2 -second branch- This is my first Git test file
+Changed to TimmyBranch-2 -second branch - MORE- This is my first Git test file
 
 
 This is my first change to the first change
