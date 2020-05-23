@@ -1,4 +1,3 @@
-Master - change. Setting up for a merge conflict
-
+Merge Conflict setup - change. This is my first Git test file
 
 This is my first change to the first change
